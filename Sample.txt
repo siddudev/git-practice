@@ -1,2 +1,4 @@
 This is to push into remote repository
 Change in Sample.txt
+This is to push into remote repository
+Change in Sample.txt
