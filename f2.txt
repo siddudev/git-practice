@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 this is f2 in second branch
 =======
 this is f2 in first branch
