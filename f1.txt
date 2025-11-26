@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 update in local
+=======
+this is f1 in second branch
+>>>>>>> e3c0a04 (6files modified in second)
