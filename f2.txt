@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is f2 in second branch
 =======
 this is f2 in first branch
 >>>>>>> 80a3a4a (3files modified in first)
+=======
+this is f2 in third branch
+>>>>>>> fbce9ce (3files modified in third)
